@@ -10,38 +10,48 @@ We therefore write a .bat script  `caller_script.bat` which executes the above p
 
 ## 3. Step Schedule an OS-Event
 We first run the 'Aufgabenplanung' app.
-![](images/step1.png) 
+![](Images/step1.PNG) 
 
 
 Then, create a new simple event.
-![](images/step2.png) 
+
+![](Images/step2.PNG) 
 
 
 Use the assistent to navigate through the setup. Give a name
-![](images/step3.png)
+
+![](Images/step3.PNG)
 
 set an interval
-![](images/step4.png) 
+
+![](Images/step4.PNG) 
 
 and start day.
-![](images/step5.png) 
+
+![](Images/step5.PNG) 
 
 Define what to do
-![](images/step6.png) 
+
+![](Images/step6.PNG) 
 
 and plug in the path to the caller script from above.
-![](images/step7.png) 
+
+![](Images/step7.PNG) 
 
 You finally get a review field. You get check the checkbox to see more settings.
-![](images/step8.png) 
+
+![](Images/step8.PNG) 
 
 here you can define more triggers in cae you'd like to run the scipt multiple times a day: 
 Use the 'new' button to add more.
 
 You can also edit the current event and set a repitition rate. Therefore click on 'bearbeiten'  
-![](images/step9.png)
+
+![](Images/step9.PNG)
+
 and set further repetitions. 
-![](images/step10.png) 
+
+![](Images/step10.PNG) 
 
 ## 4. Step: You're done
 Happy scripting :)
